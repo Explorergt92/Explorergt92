@@ -3,7 +3,7 @@
 [![explorergt92's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/john-scott-446594119])
 [![explorergt92's Credly Profile](images/credly.png)](https://www.credly.com/users/john-scott.6e6b9117)
 </br>
-- 📫 How to reach me: John.S@eloquent-algorithmics.com
+- 📬 How to reach me: John.S@eloquent-algorithmics.com
 - 💬 Discord: [ExplorerGT92](https://discordapp.com/users/ExplorerGT92)
 
 <img align="left" alt="John Scott" src="images/coding-2.gif" width="600" />
