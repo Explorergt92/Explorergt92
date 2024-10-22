@@ -6,6 +6,8 @@
 - 📫 How to reach me: John.S@eloquent-algorithmics.com
 - 💬 Discord: [ExplorerGT92](https://discordapp.com/users/ExplorerGT92)
 
+<img align="left" alt="John Scott" src="images/coding-2.gif" width="600" />
+
 <!--
 **Explorergt92/Explorergt92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
