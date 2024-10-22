@@ -7,7 +7,7 @@
 
 ### Glad to see you here!
 
-<img align="right" alt="John Scott" src="images/coding.gif" width="400" />
+<img align="left" alt="John Scott" src="images/coding-2.gif" width="600" />
 
 Love interacting with the community, sharing knowledge, and learning new things.
 
